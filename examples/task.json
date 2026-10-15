@@ -1,0 +1,18 @@
+{
+  "project": "i20",
+  "id": "demo-review-001",
+  "engine": "codex",
+  "role": "attack",
+  "route_id": "synthetic-polynomial-identity",
+  "statement": "Review the supplied elementary polynomial identity.",
+  "hypotheses": "a and b are rational numbers.",
+  "success": "An exact derivation or a concrete counterexample.",
+  "kill_condition": "A counterexample under the stated assumptions.",
+  "requested_assurance": "Written derivation; not a kernel certificate.",
+  "dependencies": [
+    {
+      "path": "lemma.txt",
+      "sha256": "f7daa9352f7a621e257257797e4e60351827cf3ffb15efc9d62564684115df6f"
+    }
+  ]
+}

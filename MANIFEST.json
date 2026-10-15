@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "scope": "reviewed public snapshot only; excludes original Git history",
+  "files": {
+    ".gitignore": {
+      "bytes": 216,
+      "sha256": "3e1effd32907ba7d92d027dc9457204b6908fcfa0409f8976135f41e2480d0d7"
+    },
+    "NOTICE.md": {
+      "bytes": 468,
+      "sha256": "690a75ec87caa6c63ac128c72bac5aefa695590b6a0e757541107996bb19efce"
+    },
+    "PROVENANCE.md": {
+      "bytes": 1808,
+      "sha256": "bbe3dd8fab093400868ff0a19cbd1dfeb1bfb43b30e35c6bf2e72646c12a2928"
+    },
+    "README.md": {
+      "bytes": 3646,
+      "sha256": "1f14d6c09cb8ad652e55fc3a54d84b6858d492275f12f7ad65254e0603e787e0"
+    },
+    "SECURITY.md": {
+      "bytes": 3961,
+      "sha256": "eacf015700e1161dff1dfc17b7b0d1180cfda98d563cf02a2532b868ae5bd82c"
+    },
+    "docs/ARCHITECTURE.md": {
+      "bytes": 3728,
+      "sha256": "06345afe1bd0e0d374843cb738914962bca0b36c9b61b72cb1f5016619ba371f"
+    },
+    "examples/context/lemma.txt": {
+      "bytes": 147,
+      "sha256": "f7daa9352f7a621e257257797e4e60351827cf3ffb15efc9d62564684115df6f"
+    },
+    "examples/task.json": {
+      "bytes": 614,
+      "sha256": "a8b096020761617afe17ebedbdbee487e8d476b6aedecb2f89dc165c4a3df76c"
+    },
+    "lab/__init__.py": {
+      "bytes": 74,
+      "sha256": "5a1fd326aaec6bec9f2ceb8eaa9ea9a20db9bcf066b52eead1180321b41f973f"
+    },
+    "lab/taskctl.py": {
+      "bytes": 16809,
+      "sha256": "8a6fc40e3e3ce8c80bc454feebb62e1ba954fb1006e7107a9c695758df0e6495"
+    },
+    "release.py": {
+      "bytes": 8994,
+      "sha256": "60bb5c43d98f79e805a0a67536174e3c4f87231ea3ec8f9601d47b0b2853945f"
+    },
+    "tests/test_release.py": {
+      "bytes": 7381,
+      "sha256": "717c5b699e50881fe653d9c7e8e10bf95d33fff474af4c8172ae31719755b258"
+    },
+    "tests/test_taskctl.py": {
+      "bytes": 14475,
+      "sha256": "29dd5f8fafa6b8cb71ae521b7b7ca5f7000f25bc594355bc5601e25fb3973c07"
+    }
+  }
+}
